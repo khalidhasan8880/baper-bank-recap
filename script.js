@@ -41,5 +41,3 @@ document.getElementById('withdraw-btn').addEventListener('click', function(){
     const totalBalance = balanceValue - inputValue;
     totalBalanceInDisplay.innerText = totalBalance;
 });
-
-// fix text uppercase 
